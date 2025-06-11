@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🚀+CRAFTING+THE+FUTURE+WITH+CODE+🚀;🌟+WHERE+INNOVATION+MEETS+EXECUTION+🌟;💎+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+💎" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=500&height=150&lines=🚀+CRAFTING+THE+FUTURE+WITH+CODE+🚀;🌟+WHERE+INNOVATION+MEETS+EXECUTION+🌟;💎+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+💎" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2500&pause=500&color=f093fb&center=true&vCenter=true&width=800&lines=🎯+DEVELOPER+PROFILE+LOADING...;👨‍💻+INITIALIZING+SYSTEMS...;🔥+READY+TO+INNOVATE!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2500&pause=500&color=f093fb&center=true&vCenter=true&width=700&lines=🎯+DEVELOPER+PROFILE+LOADING...;👨‍💻+INITIALIZING+SYSTEMS...;🔥+READY+TO+INNOVATE!" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **ABOUT ME**
@@ -169,17 +169,8 @@
   <a href="mailto:ranjithkumar93250@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
-  <a href="https://linkedin.com/in/ranjithkumar93250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/ranjith93250" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://ranjith93250.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ranjith93250" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -212,6 +203,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
   **"Code is poetry written in logic, and I'm here to compose symphonies."** 
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
