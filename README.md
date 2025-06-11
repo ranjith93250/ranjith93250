@@ -3,11 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=⚡+WELCOME+TO+MY+DIGITAL+UNIVERSE+⚡;🚀+CRAFTING+THE+FUTURE+WITH+CODE+🚀;🌟+WHERE+INNOVATION+MEETS+EXECUTION+🌟;💎+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+💎" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=🚀+CRAFTING+THE+FUTURE+WITH+CODE+🚀;🌟+WHERE+INNOVATION+MEETS+EXECUTION+🌟;💎+BUILDING+TOMORROW'S+SOLUTIONS+TODAY+💎" />
 </div>
 
 ---
@@ -16,41 +12,30 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2500&pause=500&color=f093fb&center=true&vCenter=true&width=800&lines=🎯+DEVELOPER+PROFILE+LOADING...;👨‍💻+INITIALIZING+SYSTEMS...;🔥+READY+TO+INNOVATE!" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **ABOUT THE ARCHITECT**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **ABOUT ME**
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-```javascript
-class RanjithKumar {
-  constructor() {
-    this.name = "Ranjith Kumar";
-    this.role = "Full Stack Developer";
-    this.education = "B.Tech CSE @ ACE Engineering College";
-    this.year = "3rd Year";
-    this.location = "India 🇮🇳";
-    this.status = "Available for opportunities";
-  }
-  
-  getCurrentlyLearning() {
-    return [
-      "Advanced React Patterns",
-      "Microservices Architecture", 
-      "AI/ML Integration",
-      "Cloud Native Development"
-    ];
-  }
-  
-  getDreamJob() {
-    return "Building products that change the world 🌍";
-  }
-  
-  getLifePhilosophy() {
-    return "Code with passion, debug with patience 💻✨";
-  }
-}
+🎓 **B.Tech in Computer Science & Engineering** student at ACE Engineering College (3rd year)
 
-const developer = new RanjithKumar();
-```
+💻 **Passionate about Full Stack Development** with a focus on modern web technologies
+
+🤖 **Exploring AI/ML** and its applications in web development
+
+🚀 **Always learning** new technologies and methodologies
+
+🔍 **Actively seeking** internship and collaboration opportunities
+
+💡 **Interested in solving** real-world problems through innovative solutions
+
+✨ **Motivated by the quote:** "The only way to do great work is to love what you do."
+
+**🎯 My Professional Goals:**
+- 🚀 Develop expertise in full-stack development with modern frameworks
+- 🌱 Build scalable, user-friendly applications that solve real-world problems
+- 📈 Contribute to open-source projects and grow my technical network
+- 🔍 Learn cloud technologies and microservices architecture
+- 💡 Explore the intersection of AI/ML and web development
 
 <br clear="right"/>
 
@@ -60,101 +45,63 @@ const developer = new RanjithKumar();
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🎯 **MISSION CONTROL CENTER**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-        <br><strong>🚀 SHORT TERM</strong>
-        <br>Master Modern Frameworks
-        <br>Build Scalable Applications
-        <br>Open Source Contributions
-      </td>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833018.gif" width="100">
-        <br><strong>🎯 LONG TERM</strong>
-        <br>AI/ML Expert Developer
-        <br>Tech Leadership Role
-        <br>Innovation Pioneer
-      </td>
-      <td align="center" width="300">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-        <br><strong>💡 VISION</strong>
-        <br>Creating Digital Impact
-        <br>Solving Real Problems
-        <br>Inspiring Others
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-## ⚡ **TECH ARSENAL & SUPERPOWERS**
+## ⚡ **TECH ARSENAL**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Mastering+the+Art+of+Code...;Building+Digital+Masterpieces...;Turning+Ideas+into+Reality..." />
 </div>
 
-### 🎨 **FRONTEND WIZARDRY**
+### 🎨 **Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
-  <br>
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 </div>
 
-### ⚙️ **BACKEND POWERHOUSE**
+### 🌐 **Web Technologies**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,c&theme=dark" />
-  <br>
   
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 </div>
 
-### 🗄️ **DATABASE MASTERY**
+### 🗄️ **Database & Cloud**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-  <br>
   
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 </div>
 
-### 🤖 **AI/ML LABORATORY**
+### 🤖 **AI/ML & Data Science**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-  <br>
   
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-  ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 </div>
 
-### 🛠️ **DEVOPS & TOOLS**
+### 🛠️ **Tools & DevOps**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins,netlify&theme=dark" />
-  <br>
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=000000)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 </div>
 
 ---
@@ -213,54 +160,10 @@ const developer = new RanjithKumar();
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="900">
-</div>
-
-## 💻 **COMMAND CENTER SETUP**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8f-b719-f1c4e0257022.gif" width="400">
-</div>
-
-```yaml
-workstation:
-  os: "Windows 11 Pro"
-  editor: "VS Code Insiders"
-  terminal: "Windows Terminal + Oh My Posh"
-  browser: "Chrome DevTools Master"
-  theme: "One Dark Pro"
-  font: "Fira Code Nerd Font"
-  extensions: 
-    - "GitHub Copilot"
-    - "Thunder Client"
-    - "GitLens"
-    - "Prettier"
-  hardware:
-    processor: "Intel i7"
-    ram: "16GB DDR4"
-    storage: "1TB NVMe SSD"
-  fuel: "☕ Coffee + 🎵 Lo-fi beats"
-```
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-c9d2eda8-7ea8-4fcb-8498-19a3d2b83a7f.gif" width="900">
-</div>
-
-## 🎯 **CURRENT MISSIONS**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔭+Building+Next-Gen+Web+Applications;🌱+Mastering+Cloud+Architecture;👯+Open+for+Epic+Collaborations;💬+Ask+me+about+React+%26+Node.js;📫+Always+ready+for+new+challenges;⚡+Fun+fact:+I+debug+in+my+dreams!" alt="Current Focus" />
-</div>
-
----
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284075-2ca9ad13-7c09-4c6a-909c-4b5afa8c3a9b.gif" width="900">
 </div>
 
-## 🌐 **CONNECT WITH THE ARCHITECT**
+## 🌐 **CONNECT WITH ME**
 
 <div align="center">
   <a href="mailto:ranjithkumar93250@gmail.com">
@@ -283,18 +186,6 @@ workstation:
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284081-9bcadcaa-9274-4d36-b284-7ace1906b4a7.gif" width="900">
-</div>
-
-## 🎵 **CODING SOUNDTRACK**
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6hup3haa4d5jse5l3ekwlpm7a&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</div>
-
----
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284077-2d8b9966-adb8-4be0-a3b1-4c2f6469f6ec.gif" width="900">
 </div>
 
@@ -308,7 +199,7 @@ workstation:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Thanks+for+exploring+my+digital+universe!+🚀;Let's+build+something+extraordinary+together!+⚡;The+future+is+coded+by+those+who+dare+to+dream!+💫" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=4000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Thanks+for+exploring+my+profile!+🚀;Let's+build+something+extraordinary+together!+⚡;The+future+is+coded+by+those+who+dare+to+dream!+💫" />
 </div>
 
 <div align="center">
